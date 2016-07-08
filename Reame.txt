@@ -1,0 +1,11 @@
+In This project we are processing our famous website geeksforgeeks.org. 
+As we always see there are lots of ads present on geeksforgeeks and also what we need is the only main aread(or text part of the link
+where actual code are present) not the all links which usually floats around the page.
+so what we are providing here is a GUI(Java based ) where each link will be categorised based on there data sturcture
+Also we can visit by Question number(we Mainaining numbers for each link) and in the Main window we are extarcting the only text part 
+from geeksforgeeks and displaying in Main winndow of the GUI.
+
+Pre-requisites are :
+Internet Connection
+Java 1.6+
+
